@@ -45,7 +45,8 @@ Using the power budget equation and the parameters below, determine the attenuat
 - Adjust parameters according to the table above.  
 - Dispersion and nonlinear effects in the fiber are disabled.  
 - To set the receiver sensitivity to -30 dBm for 2.5 Gb/s, set the **thermal noise parameter** in the receiver to **8.97e-24 W/Hz**.  
-- Visualizer components are included to obtain necessary simulation data.  
+- Visualizer components are included to obtain necessary simulation data.
+  
 
 ---
 
@@ -75,10 +76,24 @@ Your report should contain:
 - **Pre-lab Calculations**  
 
 - **Screenshots** of layout and results (including eye diagrams)  
+<img width="1915" height="1078" alt="Screenshot 2026-10-22 101914" src="https://github.com/user-attachments/assets/ade90e8b-8ef3-4db5-9502-c8a1989fd929" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-10-22 101851" src="https://github.com/user-attachments/assets/71937435-611f-4a04-a905-129249736e66" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-10-22 102609" src="https://github.com/user-attachments/assets/bb3c8822-e64a-4080-b139-e90d95e6a9bf" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-10-22 104846" src="https://github.com/user-attachments/assets/16fe459e-408c-44e6-bcb6-47af659219b1" />
+
+<img width="1917" height="1078" alt="Screenshot 2026-10-22 104718" src="https://github.com/user-attachments/assets/2e9dbdec-70ca-4f13-a267-d9559bb90c7a" />
+
 
 - **Summary Table** for each simulation:
   | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
   |-------------------|-----------------------|----------|-----|
+
   
+  <img width="793" height="1106" alt="image" src="https://github.com/user-attachments/assets/cb0371f3-a26e-49ba-a591-b6614f312909" />
+
 
 - **Written Summary** of observations and explanations of differences.  
+
